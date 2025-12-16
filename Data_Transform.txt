@@ -1,3 +1,4 @@
 1. transformacion de nombre
 2. transformación de apellido paterno
 3. transformación de fecha de nacimiento
+4. eliminar datos duplicados
